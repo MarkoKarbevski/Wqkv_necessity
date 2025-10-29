@@ -15,7 +15,7 @@ model_args = {
     "scale": 1/(2*(math.sqrt(768//12))),
     "use_query_weights": False,
     "learning_rate": 6e-4,
-    "weight_decay": 0.03,
+    "weight_decay": 0.025,
     "beta1": 0.9,
     "beta2": 0.95,
     "grad_clip": 1.0,  # clip gradients at this value, or disable if == 0.0
