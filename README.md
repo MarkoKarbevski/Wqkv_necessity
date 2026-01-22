@@ -28,7 +28,7 @@ To initiate training on a specific GPU (e.g., GPU 0), use the following command:
 
 For example:
 
-`python train.py configs/configs_untied/config_untiedw_original.py --gpu 0`
+`python train.py configs/configs_tied/config_tiedw_original.py --gpu 0`
 
 ---
 
