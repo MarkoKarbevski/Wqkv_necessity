@@ -24,6 +24,8 @@ We utilize the **OpenWebText** dataset. Follow these steps to prepare the enviro
 ### 3. Training
 To initiate training on a specific GPU (e.g., GPU 0), use the following command:
 
+`python train.py _a_config_file_ --gpu {gpus_to_use}`
+For example:
 `python train.py configs/configs_untied/config_untiedw_original.py --gpu 0`
 
 ---
