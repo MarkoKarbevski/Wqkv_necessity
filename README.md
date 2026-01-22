@@ -52,3 +52,6 @@ If you find this work useful in your research, please cite:
 ## 🙏 Acknowledgments
 
 We extend our gratitude to Andrej Karpathy for the nanoGPT repository, which served as the foundational framework for our experiments.
+---
+
+The code has been tested on Python version `3.12.11` using Nvidia 5090. 
