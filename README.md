@@ -10,8 +10,10 @@ This repository investigates the redundancy of the standard $W_Q$, $W_K$, and $W
 ## 🚀 Quick Start
 
 ### 1. Model Checkpoints
-Pre-trained checkpoints at various training stages (50k, 100k, and 104k steps) are available for download:
+Pre-trained checkpoints at various training stages (50k, 100k, and 104k steps) as well as the losses at various steps from our training runs are available for download:
 * **[Download from Google Drive](https://drive.google.com/drive/folders/1jpo04DxXl-VZ3llkxWox78hS8ML-1FOy?usp=sharing)**
+
+You can explore the losses using `explore losses.ipynb`
 
 ### 2. Data Preparation
 We utilize the **OpenWebText** dataset. Follow these steps to prepare the environment:
