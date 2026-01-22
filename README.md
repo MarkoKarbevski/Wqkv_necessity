@@ -3,7 +3,7 @@
 
 Official implementation and model weights for the paper: **"Key and Value Weights Are Probably All You Need"** ([arXiv:2510.23912](https://arxiv.org/abs/2510.23912)).
 
-This repository investigates the redundancy of the standard $W_Q$, $W_K$, and $W_V$ weight triplet in transformer architectures. We demonstrate that decoder-only models can maintain performance while significantly reducing parameter counts by modifying or eliminating the explicit Query weight matrix.
+This repository investigates the redundancy of the standard $W_Q$, $W_K$, and $W_V$ weight triplet in transformer architectures. We demonstrate that decoder-only models can maintain performance while significantly reducing parameter counts by replacing the Query weight matrix with the Identity matrix.
 
 ---
 
