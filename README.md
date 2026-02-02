@@ -1,5 +1,5 @@
 # Key and Value Weights Are Probably All You Need
-### On the Necessity of the Query, Key, Value Weight Triplet in Decoder-Only Transformers
+### On the Necessity of the Query, Key, Value Weight Triplet in Encoder-Only and Decoder-Only Transformers
 
 Official implementation and model weights for the paper: **"Key and Value Weights Are Probably All You Need"** ([arXiv:2510.23912](https://arxiv.org/abs/2510.23912)).
 
