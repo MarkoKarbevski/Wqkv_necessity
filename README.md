@@ -44,7 +44,7 @@ If you find this work useful in your research, please cite:
 
 ```bibtex
 @article{karbevski2025key,
-  title={Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Decoder-Only Transformers},
+  title={Key and Value Weights Are Probably All You Need: On the Necessity of the Query, Key, Value weight Triplet in Self-Attention Transformers},
   author={Karbevski, Marko and Mijoski, Antonij},
   journal={arXiv preprint arXiv:2510.23912},
   year={2025}
